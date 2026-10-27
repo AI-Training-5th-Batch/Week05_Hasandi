@@ -1,0 +1,9 @@
+Vibration Guidelines
+
+Vibration is measured in millimetres per second (mm/s). A healthy machine typically runs below 3.0 mm/s.
+
+When a machine's vibration exceeds 4.5 mm/s, schedule a bearing inspection at the next opportunity. Rising vibration over several days is a classic sign of bearing wear.
+
+When vibration exceeds 6.0 mm/s, stop the machine immediately and raise an unplanned-stop ticket. Running above this level risks a failure that can damage the spindle.
+
+Press Eta (M-07) has a known bearing-wear risk and should be watched closely. Its vibration has trended upward in recent monitoring and it is a priority for predictive maintenance.

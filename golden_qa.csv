@@ -1,0 +1,18 @@
+question,reference_answer,source_doc,answerable
+What vibration level means I should inspect a machine's bearings?,4.5 mm/s,02_vibration_guidelines.txt,1
+At what vibration reading should a machine be stopped immediately?,6.0 mm/s,02_vibration_guidelines.txt,1
+Which machine has a known bearing-wear risk?,Press Eta (M-07),02_vibration_guidelines.txt,1
+How often should lathes be serviced?,every 250 operating hours,03_maintenance_schedule.txt,1
+How often should presses be serviced?,every 500 operating hours,03_maintenance_schedule.txt,1
+What is the machine identifier for Press Eta?,M-07,01_machine_register.txt,1
+Who manufactures Press Eta?,Brunner,01_machine_register.txt,1
+When does the night shift run?,18:00 to 06:00,05_shift_operations.txt,1
+Which shift has a higher defect rate?,the night shift,04_defect_handling.txt,1
+What are the three defect types tracked on the line?,"scratches, cracks, and pits",04_defect_handling.txt,1
+What must I do before performing maintenance on a machine?,apply lockout/tagout,06_safety_lockout.txt,1
+What PPE is required in the maintenance area?,"safety glasses, cut-resistant gloves, and steel-toe boots",06_safety_lockout.txt,1
+How often should the pressure sensor be recalibrated?,monthly,07_sensor_calibration.txt,1
+What should I do first if a machine stops unexpectedly?,"make the area safe, then log the stop",08_escalation.txt,1
+What colour is the factory floor painted?,,,0
+What is the maintenance lead's mobile phone number?,,,0
+How many cars fit in the staff car park?,,,0

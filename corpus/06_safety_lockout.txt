@@ -1,0 +1,7 @@
+Safety and Lockout
+
+Before any maintenance work, apply lockout/tagout: isolate the machine from power, lock the isolation point, and attach a tag with your name and the date. Never work on a machine that has not been locked out.
+
+Personal protective equipment is mandatory in the maintenance area. The required PPE is safety glasses, cut-resistant gloves, and steel-toe boots.
+
+Only trained and authorised staff may remove a lockout. The person who applied the lock is the person who removes it.

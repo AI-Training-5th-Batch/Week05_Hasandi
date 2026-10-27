@@ -1,0 +1,7 @@
+Sensor Calibration
+
+Each machine reports three sensor signals: temperature in degrees Celsius, vibration in mm/s, and pressure in bar.
+
+The pressure sensor is the least reliable and drops readings more often than the others. Recalibrate the pressure sensor monthly, and flag any machine whose pressure readings are missing for more than an hour.
+
+Temperature and vibration sensors are calibrated every quarter. After any sensor replacement, run a validation pass before returning the machine to production.

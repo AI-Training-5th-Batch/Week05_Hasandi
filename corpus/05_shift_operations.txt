@@ -1,0 +1,7 @@
+Shift Operations
+
+The plant runs two shifts. The day shift runs from 06:00 to 18:00. The night shift runs from 18:00 to 06:00.
+
+At every handover, the outgoing operator completes the handover checklist: current machine status, any open tickets, recent alarms, and consumable levels. The incoming operator signs to confirm.
+
+Because the night shift has a higher defect rate, night-shift handovers must explicitly confirm that machine setup and calibration were verified at the start of the shift.

@@ -1,0 +1,7 @@
+Escalation Procedure
+
+Raise a ticket for any unplanned stop, any vibration reading above 6.0 mm/s, or any safety concern. Tickets are triaged by the shift supervisor.
+
+If a machine stops unexpectedly, first make the area safe, then log the stop with the machine identifier and the time. Do not restart the machine until the cause is understood.
+
+For a suspected bearing failure, escalate to the maintenance lead and mark the ticket as high priority. Press Eta (M-07) bearing issues should always be treated as high priority given its known wear risk.

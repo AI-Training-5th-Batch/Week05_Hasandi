@@ -1,0 +1,7 @@
+Machine Register
+
+The plant operates eight machines across three production lines. Line A: Press Alpha (M-01) and Press Beta (M-02), both made by Hokuto, plus Lathe Theta (M-08). Line B: Lathe Gamma (M-03), Lathe Delta (M-04), and Press Eta (M-07), all made by Brunner. Line C: Mill Epsilon (M-05) and Mill Zeta (M-06), both made by Voss.
+
+Press Eta, machine identifier M-07, is the oldest press on the floor. It was installed in 2013 and is manufactured by Brunner. It runs on Line B and is rated at 45 kW.
+
+Each machine has a unique identifier of the form M-0X. Operators should always refer to a machine by both its name and its identifier when logging events.

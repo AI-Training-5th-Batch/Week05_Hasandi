@@ -1,0 +1,7 @@
+Maintenance Schedule
+
+Service intervals depend on machine type. Presses are serviced every 500 operating hours. Lathes are serviced every 250 operating hours. Mills are serviced every 400 operating hours.
+
+Planned maintenance should be booked during the day shift wherever possible, so that specialist staff are on site. Record every service in the maintenance log with the machine identifier, the date, and the parts replaced.
+
+Overdue maintenance is the single most common contributor to unplanned stops. Do not defer a scheduled service by more than 24 hours without supervisor approval.

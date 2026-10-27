@@ -1,0 +1,7 @@
+Defect Handling
+
+The three defect types tracked on the line are scratches, cracks, and pits. A scratch is a thin surface line, a crack is a jagged fracture, and a pit is a small localised hole.
+
+When the defect rate for a shift rises into the top band, quarantine the affected output and inspect the machine that produced it. High defect rates often accompany high vibration or high temperature.
+
+The night shift consistently records a higher defect rate than the day shift, even though output is slightly lower. Supervisors should pay extra attention to night-shift handovers and setup.
